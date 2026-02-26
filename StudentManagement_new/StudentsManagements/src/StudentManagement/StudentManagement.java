@@ -11,7 +11,8 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 // Code nhanh goc
-// --- 1. MODEL: LỚP SINH VIÊN ---
+// --- 1. MODEL: LỚP SINH VIÊN --
+// Dòng này được thay đổi
 class Student {
     public static final double DIEM_GIOI = 8.0;
     public static final double DIEM_KHA = 6.5;
